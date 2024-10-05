@@ -5,6 +5,7 @@
 }
 /* This section of code was added with the help of ChatGPT because I did not know how to do this portion on my own. It should be below the 10% external code limit as instructed in the assignment. */
 /* The purpose of this code is to add in a linear gradient background theme for the website. The primary, secondary and text colors were also chosen from adobe.
+
 body {
     color: var(--text-colors);
     background: var(--primary-color); /* Use the primary color */
