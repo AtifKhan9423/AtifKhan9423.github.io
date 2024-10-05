@@ -1,0 +1,32 @@
+:root {
+    --primary-color: #305CFC; 
+    --secondary-color: #8530FC; 
+    --text-colors: #8F83FC; 
+}
+/* This section of code was added with the help of ChatGPT because I did not know how to do this portion on my own. It should be below the 10% external code limit as instructed in the assignment. */
+/* The purpose of this code is to add in a linear gradient background theme for the website. The primary, secondary and text colors were also chosen from adobe.
+body {
+    color: var(--text-colors);
+    background: var(--primary-color); /* Use the primary color */
+}
+body {
+    color: var(--text-color); /* Set the text color */
+    background: linear-gradient(to right, var(--primary-color), var(--secondary-color)); /* Horizontal gradient */
+}
+
+header {
+    background: linear-gradient(90deg, var(--primary-color) 0%, var(--secondary-color) 100%); /* Angle gradient for header */
+    padding: 20px;
+}
+
+section {
+    padding: 20px;
+    background: linear-gradient(to bottom, var(--primary-color), var(--secondary-color)); /* Gradient for section */
+}
+
+footer {
+    background-color: var(--primary-color); /* Solid color for footer */
+    color: white; /* Set text color for footer */
+    text-align: center;
+    padding: 10px;
+}
