@@ -7,7 +7,6 @@
 /* The purpose of this code is to add in a linear gradient background theme for the website. The primary, secondary and text colors were also chosen from adobe.
 
 }
-
 body {
     color: var(--text-colors);
     background: var(--primary-color); /* Use the primary color */
